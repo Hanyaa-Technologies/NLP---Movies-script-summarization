@@ -8,11 +8,13 @@ Before you begin,ensure you have met the following requirements:
 3. Transformers library by Hugging Face 
 
 ##### Installation
-1. Clone the repository: 
-git clone <repository-url>
+1. Clone the repository:
+
+[git clone <repository-url>](https://github.com/Hanyaa-Technologies/NLP---Movies-script-summarization.git)
 cd <repository-directory>
 
-2. Install the required packages:
+3. Install the required packages:
+
    pip install torch transformers
 
 ##### Usage
