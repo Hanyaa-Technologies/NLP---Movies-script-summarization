@@ -3,9 +3,9 @@ This project utilizes the Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-
 
 ##### Prerequisites
 Before you begin,ensure you have met the following requirements:
-• Python 3.8 or above
-• PyTorch 1.10.0 or above
-• Transformers library by Hugging Face 
+1. Python 3.8 or above
+2. PyTorch 1.10.0 or above
+3. Transformers library by Hugging Face 
 
 ##### Installation
 1. Clone the repository: 
